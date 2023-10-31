@@ -1,0 +1,149 @@
+body { 
+background: sandybrown;
+}
+
+.firstheader{
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-width: 10px;
+  text-align: center;
+  font-family: Impact;
+}
+
+.intrest{
+  text-align: center;
+  font-family: Impact;
+}
+
+.Fav {
+  text-align: left;
+  font-family: Impact;
+  
+}
+.movies{
+  background : coral;
+  border : solid;
+  text-align: left;
+  font-family: Impact;
+  padding-down: 2px;
+}
+
+.heading{
+  text-align: left;
+  font-family: Impact;
+  
+}
+
+
+.music{
+  background : coral;
+  border : solid;
+  text-align: left;
+  font-family: Impact;
+  padding-bottom: 2px;
+}
+
+.explore{
+  
+  
+  text-align: left;
+  font-family: Impact;
+  padding-down: 2px;
+}
+
+.table{
+   background : coral;
+  border : solid;
+  text-align: left;
+  font-family: Impact;
+  padding-bottom: 2px;
+  
+  
+}
+table,th,td{
+  border:1px solid;
+
+  
+
+
+
+
+
+}
+
+
+
+
+
+
+table{
+  margin : auto;
+}
+
+.music1{
+  backgorund-color : Royalblue;
+}
+
+.frameh{
+  font-family : "Impact";
+  
+}
+
+
+.posterh{
+  font-family : "impact";
+}
+
+
+
+
+.posters{
+  font-family : "Impact";
+background : coral;
+  border : solid;
+  text-align: center;
+  
+  padding-bottom: 2px;
+}
+
+.frame{
+  font-family : "Impact";
+background : coral;
+  border : solid;
+  text-align: center;
+  
+  padding-bottom: 2px;
+
+
+}
+
+canvas{
+  width : 400px;
+  height : 200px;
+  margin : 10px;
+  border : 2px  solid black;
+  
+  
+}
+.upload{
+  background : coral;
+  margin : 2px;
+  border : 3px solid black;
+  font-family : "impact";
+  text-align : center;
+}
+
+
+
+
+
+
+
+.select{
+  width : 600px;
+  height : 300px;
+  margin : 2px;
+  border : 2px solid black;
+  
+  
+}
